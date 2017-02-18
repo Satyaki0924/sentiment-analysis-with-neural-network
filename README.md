@@ -7,6 +7,8 @@ First run 'setup.sh' in bash. This will set up the project for you.
 
 To run the project, open 'run_me.py'. The terminal must show the following:
 
+## Preprocessing
+
 ![Terminal screen_1](https://github.com/Satyaki0924/sentiment-analysis-with-neural-network/blob/master/res/pr2.1.png?raw=true "Terminal1")
 
 These are a few screenshots from the project:
@@ -24,3 +26,22 @@ These are a few screenshots from the project:
 ## Sentiment analysis
 
 ![Terminal screen_7](https://github.com/Satyaki0924/sentiment-analysis-with-neural-network/blob/master/res/pr.2.7.png?raw=true "Terminal7")
+
+## Graphs:
+
+### Word Positive/Negative Affinity Distribution
+
+![Graph screen_1](https://github.com/Satyaki0924/sentiment-analysis-with-neural-network/blob/master/res/pr.graph.1.png?raw=true "Graph1")
+
+### Frequency Distribution Of Words In Our Dataset
+
+![Graph screen_2](https://github.com/Satyaki0924/sentiment-analysis-with-neural-network/blob/master/res/pr.graph.2.png?raw=true "Graph2")
+
+### Vector T-SNE For Most Polarized Words
+
+![Graph screen_3](https://github.com/Satyaki0924/sentiment-analysis-with-neural-network/blob/master/res/pr.graph.3.png?raw=true "Graph3")
+
+![Graph screen_4](https://github.com/Satyaki0924/sentiment-analysis-with-neural-network/blob/master/res/pr.graph.4.png?raw=true "Graph4")
+
+####Author: Satyaki Sanyal
+This project is strictly for educational purposes only.
