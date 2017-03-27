@@ -43,5 +43,5 @@ These are a few screenshots from the project:
 
 ![Graph screen_4](https://github.com/Satyaki0924/sentiment-analysis-with-neural-network/blob/master/res/pr.graph.4.png?raw=true "Graph4")
 
-####Author: Satyaki Sanyal
+#### Author: Satyaki Sanyal
 This project is strictly for educational purposes only.
